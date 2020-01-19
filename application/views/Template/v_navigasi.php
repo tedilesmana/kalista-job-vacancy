@@ -1,6 +1,7 @@
-<nav class="mb-1 pb-3 pt-3 navbar navbar-expand-lg bg-secondary">
-	<a class="navbar-brand text-white ml-5" href="<?= base_url(); ?>">KCBersama</a>
-	<span class="domain text-white" style="font-size: 20px;left: -10px;position: relative;top: 3px;">.co.id</span>
+<nav class="mb-1 pb-4 pt-4 navbar navbar-expand-lg bg-secondary">
+	<a class="navbar-brand text-white ml-5" href="<?= base_url(); ?>">
+	<i class="fa fa-home" style="font-size: 20px;"></i> KCBersama</a>
+	<span class="domain text-white" style="font-size: 16px;left: -10px;position: relative;top: 2px;">.co.id</span>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4"
     aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>

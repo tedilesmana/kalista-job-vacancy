@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="row">
 		<div class="text-center col-12 mt-5">
-			<h4 class="font-weight-bold">INFO LOWONGAN KERJA PT. KAWAN LAMA SEJAHTERA CIKARANG</h4>
+			<h4 class="font-weight-bold">INFO LOWONGAN KERJA</h4>
 		</div>
 	</div>
 </div>
